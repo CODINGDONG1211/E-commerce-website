@@ -54,6 +54,6 @@ This project is licensed under the [NOBODY](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding the project, feel free to contact us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions regarding the project, feel free to contact us at [spraveenram2004@gmail.com](mailto:spraveenram2004@gmail.com).
 
 Thank you for your interest in our E-Commerce Website! We hope you find it useful and look forward to your contributions.
