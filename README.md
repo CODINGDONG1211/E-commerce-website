@@ -6,10 +6,8 @@ Welcome to our E-Commerce Website repository! This project is a full-fledged e-c
 
 - **User Authentication**: Secure user authentication system to manage user accounts.
 - **Product Catalog**: Browse through a wide range of products available for purchase.
-- **Product Search**: Easily search for products based on keywords or categories.
 - **Shopping Cart**: Add products to the cart for easy checkout.
 - **Checkout Process**: Smooth checkout process with options for payment and shipping.
-- **Order Management**: View and manage orders from the user dashboard.
 - **Responsive Design**: The website is fully responsive, ensuring optimal viewing across various devices.
 
 ## Installation
@@ -54,7 +52,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [NOBODY](LICENSE).
 
 ## Contact
 
