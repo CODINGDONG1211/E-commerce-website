@@ -36,9 +36,7 @@ Welcome to our E-Commerce Website repository! This project is a full-fledged e-c
 - **React**: A JavaScript library for building user interfaces.
 - **React Router**: For handling navigation within the application.
 - **Redux**: A predictable state container for managing application state.
-- **Bootstrap**: CSS framework for styling and layout.
-- **Firebase**: For user authentication and database management.
-- **Stripe**: For handling payment processing.
+
 
 ## Contributing
 
